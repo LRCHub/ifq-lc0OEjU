@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Fashion Week",
+  "base_artist": "Watson",
+  "createdAt": "2026-02-17T23:52:58.921263Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Paris Fashion Week",
+      "artist": "MadeinTYO",
+      "has_synced": true,
+      "path": "select/01_Paris_Fashion_Week_MadeinTYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fashion Week",
+      "artist": "Wale feat. G-Eazy",
+      "has_synced": true,
+      "path": "select/02_Fashion_Week_Wale_feat._G-Eazy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fashion Week (Clean)",
+      "artist": "Wale f./G-Eazy",
+      "has_synced": true,
+      "path": "select/03_Fashion_Week_(Clean)_Wale_f._G-Eazy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fashion Week",
+      "artist": "Tedua feat. Chris Nolan",
+      "has_synced": true,
+      "path": "select/04_Fashion_Week_Tedua_feat._Chris_Nolan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fashion Week",
+      "artist": "Tedua",
+      "has_synced": true,
+      "path": "select/05_Fashion_Week_Tedua.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. AJ Tracey & MoStack)",
+      "artist": "Steel Banglez feat. AJ Tracey & MoStack",
+      "has_synced": true,
+      "path": "select/06_Fashion_Week_(feat._AJ_Tracey_&_MoStack)_Steel_Banglez_feat._AJ_Tracey_&_MoStack.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. AJ Tracey & MoStack)",
+      "artist": "Steel Banglez",
+      "has_synced": true,
+      "path": "select/07_Fashion_Week_(feat._AJ_Tracey_&_MoStack)_Steel_Banglez.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fashion Week Rmx",
+      "artist": "Tedua feat. Chris Nolan & Sofiane",
+      "has_synced": true,
+      "path": "select/08_Fashion_Week_Rmx_Tedua_feat._Chris_Nolan_&_Sofiane.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fashion Week Rmx",
+      "artist": "Tedua",
+      "has_synced": true,
+      "path": "select/09_Fashion_Week_Rmx_Tedua.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FASHION WEEK",
+      "artist": "Rejjie Snow",
+      "has_synced": true,
+      "path": "select/10_FASHION_WEEK_Rejjie_Snow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fashion Week - Remix",
+      "artist": "DJ Fronteo",
+      "has_synced": true,
+      "path": "select/11_Fashion_Week_-_Remix_DJ_Fronteo.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fashion Week (feat. G-Eazy)",
+      "artist": "Wale",
+      "has_synced": true,
+      "path": "select/12_Fashion_Week_(feat._G-Eazy)_Wale.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fashion Week",
+      "artist": "Wale feat. G-Eazy",
+      "has_synced": true,
+      "path": "select/13_Fashion_Week_Wale_feat._G-Eazy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fashion Week (Remix)",
+      "artist": "DJ Fronteo",
+      "has_synced": true,
+      "path": "select/14_Fashion_Week_(Remix)_DJ_Fronteo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fashion Week",
+      "artist": "It's Different feat. Hugo Pooe",
+      "has_synced": true,
+      "path": "select/15_Fashion_Week_It's_Different_feat._Hugo_Pooe.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fashion Week",
+      "artist": "It's Different, Hugo Pooe",
+      "has_synced": true,
+      "path": "select/16_Fashion_Week_It's_Different,_Hugo_Pooe.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fashion Week",
+      "artist": "Blackbear",
+      "has_synced": true,
+      "path": "select/17_Fashion_Week_Blackbear.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Fashion Week",
+      "artist": "veZk",
+      "has_synced": false,
+      "path": "select/18_Fashion_Week_veZk.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Fashion Week",
+      "artist": "Jack the Smoker",
+      "has_synced": true,
+      "path": "select/19_Fashion_Week_Jack_the_Smoker.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fashion Week (feat. Benjazzy)",
+      "artist": "Watson",
+      "has_synced": false,
+      "path": "select/pl_01_Fashion_Week_(feat._Benjazzy)_Watson.txt"
+    }
+  ]
+}
